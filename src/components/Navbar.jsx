@@ -15,10 +15,10 @@ const NavBar = () => {
                     <li><a href="https://www.apple.com/in/iphone/" className='link-styled'>iPhone</a></li>
                     <li><a href="https://www.apple.com/in/watch/" className='link-styled'>watch</a></li>
                     <li><a href="https://www.apple.com/in/airpods/" className='link-styled'>AirPods</a></li>
-                    <li><a href="apple.com/in/tv-home/" className='link-styled'>Tv & Home</a></li>
-                    <li><a href="https://www.apple.com/in/services/" className='link-styled'>Entertainment</a></li>
-                    <li><a href="https://www.apple.com/in/shop/accessories/all" className='link-styled'>Accesspries</a></li>
-                    <li><a href="https://support.apple.com/en-in" className='link-styled'>Support</a></li>
+                    <li><a href="" className='link-styled'>Tv & Home</a></li>
+                    <li><a href="" className='link-styled'>Entertainment</a></li>
+                    <li><a href="" className='link-styled'>Accesspries</a></li>
+                    <li><a href="" className='link-styled'>Support</a></li>
                     <li><img src={Search} alt="search" /></li>
                     <li><img src={Store} alt="store" /></li>
                     
